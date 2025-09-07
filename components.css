@@ -1,0 +1,17 @@
+body {
+    background-color: #ffb703;
+}
+
+
+.carousel-item {
+    aspect-ratio: 16 / 9; /* Proporción widescreen */
+    overflow: hidden;
+}
+
+#description {
+    background-color: rgb(117, 114, 114);
+}
+
+h2{
+    text-align: center;
+}
